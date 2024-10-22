@@ -6,17 +6,17 @@
   "closeExistingTabs": true,
   "websites": [
     {
-      "url": "https://i.ibb.co/wzmPqTD/Visao-Rede-Corda.png?chromeless=true",
+      "url": "https://i.ibb.co/Tg37GZz/Visao-Rede-Corda.png?chromeless=true",
       "duration": 15,
       "tabReloadIntervalSeconds": 300
     },
     {
-      "url": "https://i.ibb.co/n61BWtQ/Valores-Rede-Corda.png?chromeless=true",
+      "url": "https://i.ibb.co/tQ2zdFY/Valores-Rede-Corda.png?chromeless=true",
       "duration": 15,
       "tabReloadIntervalSeconds": 300
     },
     {
-      "url": "https://i.ibb.co/CtgZgjB/Sel-Interna-Lab.png?chromeless=true",
+      "url": "https://i.ibb.co/Y7Y02BY/Avisos.png?chromeless=true",
       "duration": 60,
       "tabReloadIntervalSeconds": 600
     }

@@ -1,5 +1,5 @@
 {
-  "settingsReloadIntervalMinutes": 2,
+  "settingsReloadIntervalMinutes": 30,
   "fullscreen": true,
   "autoStart": true,
   "lazyLoadTabs": false,
@@ -7,17 +7,17 @@
   "websites": [
     {
       "url": "https://i.ibb.co/Tg37GZz/Visao-Rede-Corda.png?chromeless=true",
-      "duration": 15,
+      "duration": 60,
       "tabReloadIntervalSeconds": 300
     },
     {
       "url": "https://i.ibb.co/tQ2zdFY/Valores-Rede-Corda.png?chromeless=true",
-      "duration": 15,
+      "duration": 60,
       "tabReloadIntervalSeconds": 300
     },
     {
       "url": "https://i.ibb.co/Y7Y02BY/Avisos.png?chromeless=true",
-      "duration": 60,
+      "duration": 300,
       "tabReloadIntervalSeconds": 600
     }
   ]

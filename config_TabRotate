@@ -1,5 +1,5 @@
 {
-  "settingsReloadIntervalMinutes": 2,
+  "settingsReloadIntervalMinutes": 10,
   "fullscreen": false,
   "autoStart": false,
   "lazyLoadTabs": false,
@@ -8,17 +8,17 @@
     {
       "url": "https://drive.google.com/file/d/1wlK6YhGS2qPvX_mrRNZGmSg-wHfMN5jD/view?chromeless=true",
       "duration": 60,
-      "tabReloadIntervalSeconds": 1000
+      "tabReloadIntervalSeconds": 300
     },
     {
       "url": "https://drive.google.com/file/d/1ejSYphOdeZlMa9P9bJOE7qfdhSFp0dOl/view?chromeless=true",
       "duration": 60,
-      "tabReloadIntervalSeconds": 1000
+      "tabReloadIntervalSeconds": 300
     },
     {
       "url": "https://drive.google.com/file/d/1lK-rQz_sqaARpYp_om9yTsZ2RORSxt8k/view?chromeless=true",
       "duration": 300,
-      "tabReloadIntervalSeconds": 1000
+      "tabReloadIntervalSeconds": 600
     }
   ]
 }

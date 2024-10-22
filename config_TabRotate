@@ -1,9 +1,9 @@
 {
   "settingsReloadIntervalMinutes": 10,
-  "fullscreen": false,
-  "autoStart": false,
+  "fullscreen": true,
+  "autoStart": true,
   "lazyLoadTabs": false,
-  "closeExistingTabs": false,
+  "closeExistingTabs": true,
   "websites": [
     {
       "url": "https://drive.google.com/file/d/1wlK6YhGS2qPvX_mrRNZGmSg-wHfMN5jD/view?chromeless=true",

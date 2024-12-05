@@ -6,17 +6,22 @@
   "closeExistingTabs": true,
   "websites": [
     {
-      "url": "https://i.ibb.co/Tg37GZz/Visao-Rede-Corda.png?chromeless=true",
+      "url": "https://i.ibb.co/zS8f8Tc/Visao-Rede-Corda.png?chromeless=true",
       "duration": 60,
       "tabReloadIntervalSeconds": 300
     },
     {
-      "url": "https://i.ibb.co/tQ2zdFY/Valores-Rede-Corda.png?chromeless=true",
+      "url": "https://i.ibb.co/q9Gkdzs/Valores-Rede-Corda.png?chromeless=true",
       "duration": 60,
       "tabReloadIntervalSeconds": 300
     },
     {
-      "url": "https://i.ibb.co/Y7Y02BY/Avisos.png?chromeless=true",
+      "url": "https://i.ibb.co/CBSz51r/Qualidade-Rede-Corda.png?chromeless=true",
+      "duration": 300,
+      "tabReloadIntervalSeconds": 600
+    },
+    {
+      "url": "https://i.ibb.co/MVFm5D8/Miss-o-Rede-Corda.png?chromeless=true",
       "duration": 300,
       "tabReloadIntervalSeconds": 600
     }

@@ -7,12 +7,12 @@
   "websites": [
     {
       "url": "https://i.ibb.co/zS8f8Tc/Visao-Rede-Corda.png?chromeless=true",
-      "duration": 60,
+      "duration": 300,
       "tabReloadIntervalSeconds": 300
     },
     {
       "url": "https://i.ibb.co/q9Gkdzs/Valores-Rede-Corda.png?chromeless=true",
-      "duration": 60,
+      "duration": 300,
       "tabReloadIntervalSeconds": 300
     },
     {
@@ -27,6 +27,11 @@
     },
     {
       "url": "https://app.powerbi.com/groups/me/reports/6e158ee2-81fa-4d48-84c1-346c547027e4/69a556337c97200ed49f?chromeless=true",
+      "duration": 300,
+      "tabReloadIntervalSeconds": 600
+    },
+    {
+      "url": "https://app.powerbi.com/groups/me/reports/6e158ee2-81fa-4d48-84c1-346c547027e4/bb9159b6b615d8793804?chromeless=true",
       "duration": 300,
       "tabReloadIntervalSeconds": 600
     }

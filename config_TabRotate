@@ -8,42 +8,47 @@
     {
       "url": "https://i.ibb.co/zS8f8Tc/Visao-Rede-Corda.png?chromeless=true",
       "duration": 300,
-      "tabReloadIntervalSeconds": 300
+      "tabReloadIntervalSeconds": 120
     },
     {
       "url": "https://i.ibb.co/q9Gkdzs/Valores-Rede-Corda.png?chromeless=true",
       "duration": 300,
-      "tabReloadIntervalSeconds": 300
+      "tabReloadIntervalSeconds": 120
     },
     {
       "url": "https://i.ibb.co/CBSz51r/Qualidade-Rede-Corda.png?chromeless=true",
       "duration": 300,
-      "tabReloadIntervalSeconds": 600
+      "tabReloadIntervalSeconds": 120
     },
     {
       "url": "https://i.ibb.co/MVFm5D8/Miss-o-Rede-Corda.png?chromeless=true",
       "duration": 300,
-      "tabReloadIntervalSeconds": 600
+      "tabReloadIntervalSeconds": 120
     },
     {
       "url": "https://app.powerbi.com/groups/me/reports/6e158ee2-81fa-4d48-84c1-346c547027e4/69a556337c97200ed49f?chromeless=true",
       "duration": 300,
-      "tabReloadIntervalSeconds": 600
+      "tabReloadIntervalSeconds": 120
     },
     {
       "url": "https://app.powerbi.com/groups/me/reports/6e158ee2-81fa-4d48-84c1-346c547027e4/bb9159b6b615d8793804?chromeless=true",
       "duration": 300,
-      "tabReloadIntervalSeconds": 600
+      "tabReloadIntervalSeconds": 120
     },
     {
       "url": "https://app.powerbi.com/groups/me/reports/6e158ee2-81fa-4d48-84c1-346c547027e4/57ffebe69c3a13c6af86?chromeless=true",
       "duration": 300,
-      "tabReloadIntervalSeconds": 600
+      "tabReloadIntervalSeconds": 120
     },
     {
       "url": "https://app.powerbi.com/groups/me/reports/6e158ee2-81fa-4d48-84c1-346c547027e4/d0a3cfcafe5fd8880f4d?chromeless=true",
       "duration": 300,
-      "tabReloadIntervalSeconds": 600
+      "tabReloadIntervalSeconds": 120
+    },
+    {
+      "url": "https://i.ibb.co/84x65gZ/Natal2024-foto1.png?chromeless=true",
+      "duration": 300,
+      "tabReloadIntervalSeconds": 120
     }
   ]
 }
